@@ -1,5 +1,5 @@
 # GSoC-2022-Proposal-for-SymPy
-Link to my proposal - https://docs.google.com/document/d/1Cx7IaAkmxp1f81efSPNpMtkNE6K4NgkhkI_2TLjTEE8/edit#heading=h.z6ne0og04bp5
+Link to my proposal - https://drive.google.com/file/d/1P8PFVoSyTcskkRVYmbHd-85o96dOiEnZ/view?usp=sharing
 
 Title: Improving Series Expansions and Limit Computations
 
