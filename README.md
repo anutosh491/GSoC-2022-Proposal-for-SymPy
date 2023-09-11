@@ -10,3 +10,6 @@ Series expansions, in the field of symbolic computation, is an area of major stu
 * Fixing limit errors through gruntz algorithm and improving the algorithm overall 
 * Refactoring written code for order term 
 * Addressing miscellaneous bugs and implementation ideas related to the series module
+
+# Final Report
+Link to the report - https://github.com/sympy/sympy/wiki/GSoC-2022-:-Improving-Series-Expansions-and-Limit-Computations-Report-by-Anutosh-Bhat
